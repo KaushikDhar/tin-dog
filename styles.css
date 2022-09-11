@@ -1,0 +1,116 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Ubuntu:ital,wght@1,500&display=swap'); */
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+
+}
+
+.navbar {
+    padding: 0 0 3.5rem;
+}
+
+.nav-item {
+    padding: 0 15px;
+
+}
+
+/* contacts annd all in the web page */
+.nav-link {
+    font-weight: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+/* download buttons */
+.Download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+/* Features */
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+p{
+    color: #8f8f8f;
+}
+.icon{
+    color: #ff4c68;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+
+/* Testimonials */
+#testimonials{
+    text-align: center;
+    padding: 7% 15%;
+    color: #fff;
+    background-color: #ef8172;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;  
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+#footer{
+text-align: center;
+}
+
+/* pricing */
+/* #pricing{
+    padding: 100%;
+}
+#pricing-column{
+padding: 3% 2%;
+} */
+#cta{
+    text-align: center;
+}
